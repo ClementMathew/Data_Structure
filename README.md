@@ -1,3 +1,3 @@
 # Data_Structure
-Data Structure Concepts in C Language
-
+All concepts in data structure is implemented here .
+Checkout !
